@@ -1,4 +1,4 @@
-# 🐷 Pig Latin Activity
+# 🐷 Pig Latin Application
 
 [Oday ouyay eakspay igpay atinlay?](http://www.wikihow.com/Speak-Pig-Latin)
 
